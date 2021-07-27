@@ -1,0 +1,9 @@
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.deps.json
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.dll
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.pdb
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.csproj.CoreCompileInputs.cache
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.AssemblyInfoInputs.cache
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.AssemblyInfo.cs
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.dll
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.pdb
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.csprojAssemblyReference.cache

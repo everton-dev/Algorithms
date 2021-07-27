@@ -1,0 +1,17 @@
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.deps.json
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.runtimeconfig.json
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.runtimeconfig.dev.json
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.dll
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.dll
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.pdb
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.csprojAssemblyReference.cache
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.csproj.CoreCompileInputs.cache
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.AssemblyInfoInputs.cache
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.AssemblyInfo.cs
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.csproj.CopyComplete
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\bin\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.pdb
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.dll
+D:\Laboratorio\Data Structures\Algorithms\src\Algorithms.DataStructures.Test\obj\Debug\netcoreapp2.1\Algorithms.DataStructures.Test.pdb
